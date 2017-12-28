@@ -25,6 +25,9 @@ import com.mashape.unirest.http.HttpResponse;
 import com.mashape.unirest.http.Unirest;
 import com.mashape.unirest.http.exceptions.UnirestException;
 
+/**
+ *  this is test
+ */
 public class AirwallexReq {
 	private static AirwallexReq instance = null;
 
