@@ -8,7 +8,7 @@ import org.junit.After;
 * JacksonUtil Tester. 
 * 
 * @author <Authors name> 
-* @since <pre>ʮ���� 29, 2017</pre> 
+* @since <pre> 29, 2017</pre>
 * @version 1.0 
 */ 
 public class JacksonUtilTest { 
